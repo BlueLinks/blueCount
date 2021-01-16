@@ -1,6 +1,6 @@
 # blueCount
 
-This a simple app designed to help you keep track of various aspects of your life!
+This a simple app designed to help you keep track of various aspects of your life! 🧮
 
 ## Why?
 
